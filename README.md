@@ -55,11 +55,12 @@
  
 	<a href="mailto:hagersamir693@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/hagersamirr"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/hager-samir-mohamed-nadem-4a7153235"><img 
+	<a href="https://www.linkedin.com/in/hager-samir-mohamed-nadem-4a7153235"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	
 </p>
 
 <hr/>
+		
 
 * Credit: [hagersamirr](https://github.com/hagersamirr)
 
