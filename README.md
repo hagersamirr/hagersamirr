@@ -8,7 +8,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 
-- 📄 Know about my experiences (CV link) [https://drive.google.com/file/d/1jiEiZzgirqgL-4aFr10aC3MIRbDs1QV9/view?usp=sharing](https://drive.google.com/file/d/1jiEiZzgirqgL-4aFr10aC3MIRbDs1QV9/view?usp=sharing)
+- 📄 Know about my experiences (CV link) [https://drive.google.com/file/d/1jiEiZzgirqgL-4aFr10aC3MIRbDs1QV9/view?usp=sharing](https://drive.google.com/file/d/1MMuG3T_D6EGFyYP1cSRx0PVq_vScOvaK/view?usp=share_link)
+
 
 ## 🛠️ My Skills
 
